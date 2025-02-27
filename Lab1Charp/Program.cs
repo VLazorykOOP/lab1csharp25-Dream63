@@ -67,6 +67,7 @@ static void task5()
 
 static void task6() 
 {
+    Console.WriteLine("Task6");
     static float Funct(float x, float y) 
     {
         return (x * y + (x + y * y + 3)/(x * x + 5));
